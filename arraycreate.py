@@ -6,3 +6,6 @@ print(array_one)
 num = [11, 22, 33, 44, 55, 66, 77]
 array_two = np.array(num)
 print(array_two)
+
+array_of_zeroes = np.zeros((2, 3))
+print(array_of_zeroes)

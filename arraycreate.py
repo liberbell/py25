@@ -9,3 +9,6 @@ print(array_two)
 
 array_of_zeroes = np.zeros((2, 3))
 print(array_of_zeroes)
+
+array_of_ones = np.ones((2, 3))
+print(array_of_ones)

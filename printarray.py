@@ -8,3 +8,5 @@ print(y)
 
 z = np.arange(36).reshape(3, 4, 3)
 print(z)
+
+print(np.arange(12100))

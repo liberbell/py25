@@ -24,3 +24,6 @@ print(array_eye)
 
 array_of_evens = np.arange(2, 24, 2)
 print(array_of_evens)
+
+array_of_floats = np.arange(1, 3, 0.3)
+print(array_of_floats)

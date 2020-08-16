@@ -15,3 +15,6 @@ print(array_of_ones)
 
 array_of_ones = np.ones((3, 2), dtype=np.int32)
 print(array_of_ones)
+
+array_empty = np.empty((3, 2))
+print(array_empty)

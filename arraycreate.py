@@ -32,3 +32,6 @@ array_2D = np.array([(3, 4, 6), (2, 1, 6)])
 print(array_2D)
 print(array_2D.shape)
 print(np.arange(8))
+
+array_nd = np.arange(8).reshape(2, 4)
+print(array_nd)

@@ -39,5 +39,5 @@ print(array_nd)
 # array_nd = np.arange(6).reshape(2, 4)
 # print(array_nd)
 
-array_ones = np.ones_lile(array_nd)
+array_ones = np.ones_like(array_nd)
 print(array_nd)

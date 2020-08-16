@@ -10,4 +10,4 @@ z = np.arange(36).reshape(3, 4, 3)
 print(z)
 
 print(np.arange(12100))
-print(np.arange(12100.reshape(110, 110)))
+print(np.arange((12100).reshape(110, 110)))

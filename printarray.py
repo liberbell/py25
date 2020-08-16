@@ -6,5 +6,5 @@ print(x)
 y = np.arange(16).reshape(4, 4)
 print(y)
 
-z = np.arange(36).reshape(3, 4, 6)
+z = np.arange(36).reshape(3, 4, 3)
 print(z)

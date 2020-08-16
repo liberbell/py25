@@ -36,5 +36,5 @@ print(np.arange(8))
 array_nd = np.arange(8).reshape(2, 4)
 print(array_nd)
 
-array_nd = np.arange(6).reshape(2, 4)
-print(array_nd)
+# array_nd = np.arange(6).reshape(2, 4)
+# print(array_nd)

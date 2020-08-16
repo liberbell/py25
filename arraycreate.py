@@ -18,3 +18,6 @@ print(array_of_ones)
 
 array_empty = np.empty((3, 2))
 print(array_empty)
+
+array_eye = np.eye(4)
+print(array_eye)

@@ -12,5 +12,5 @@ print(z)
 print(np.arange(12100))
 print(np.arange(12100).reshape(110, 110))
 
-np.set_printoptions(threshold=np.nan)
+np.set_printoptions(threshold=np.non-NAN)
 print(np.arange(12100).reshape(110, 110))

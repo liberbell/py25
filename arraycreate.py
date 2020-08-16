@@ -28,5 +28,5 @@ print(array_of_evens)
 array_of_floats = np.arange(1, 3, 0.3)
 print(array_of_floats)
 
-array_2D = np.array((3, 4, 6), (2, 1, 6))
+array_2D = np.array([(3, 4, 6), (2, 1, 6)])
 print(array_2D)

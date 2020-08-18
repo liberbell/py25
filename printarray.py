@@ -13,4 +13,4 @@ print(np.arange(12100))
 print(np.arange(12100).reshape(110, 110))
 
 np.set_printoptions(threshold = np.nan)
-print(np.arange(12100).reshape(110, 110))
+print(np.arange(121).reshape(11, 11))

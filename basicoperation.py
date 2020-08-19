@@ -17,3 +17,5 @@ x = np.array([[2, 1], [1, 3]])
 y = np.array([[3, 2], [4, 2]])
 print("x: \n", x)
 print("y: \n", y)
+
+print(x + y)

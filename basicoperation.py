@@ -19,3 +19,5 @@ print("x: \n", x)
 print("y: \n", y)
 
 print(x + y)
+print(x - y)
+print(x * y)

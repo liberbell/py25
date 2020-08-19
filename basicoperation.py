@@ -10,3 +10,4 @@ print("p / q = ", p / q)
 print("p % q = ", p % q)
 
 print(p % 2)
+print(p > 8)

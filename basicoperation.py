@@ -30,3 +30,6 @@ print(x)
 
 fleet_mileage = np.array([14130, 37234, 21892, 11479, 6890, 27981])
 print(fleet_mileage.sum())
+
+print(fleet_mileage.min())
+print(fleet_mileage.max())

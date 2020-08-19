@@ -33,3 +33,5 @@ print(fleet_mileage.sum())
 
 print(fleet_mileage.min())
 print(fleet_mileage.max())
+
+print("Mean: ", fleet_mileage.mean())

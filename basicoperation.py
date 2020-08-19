@@ -21,3 +21,5 @@ print("y: \n", y)
 print(x + y)
 print(x - y)
 print(x * y)
+
+print(x.dot(y))

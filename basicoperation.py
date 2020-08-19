@@ -11,3 +11,4 @@ print("p % q = ", p % q)
 
 print(p % 2)
 print(p > 8)
+print(p < 9)

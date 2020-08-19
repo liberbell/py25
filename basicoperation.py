@@ -24,3 +24,6 @@ print(x * y)
 
 print(x.dot(y))
 print(np.dot(x, y))
+
+x *= 4
+print(x)

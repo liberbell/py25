@@ -23,3 +23,4 @@ print(x - y)
 print(x * y)
 
 print(x.dot(y))
+print(np.dot(x, y))

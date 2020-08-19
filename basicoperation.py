@@ -8,3 +8,5 @@ print(p - q)
 print("p * q = ", p * q)
 print("p / q = ", p / q)
 print("p % q = ", p % q)
+
+print(p % 2)

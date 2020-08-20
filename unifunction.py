@@ -26,3 +26,6 @@ sine_values = np.sin(angles_radians)
 arcsine_values = np.arcsin(sine_values)
 print(arcsine_values)
 print(arcsine_values * 180 / np.pi)
+
+x = np.arange(4, 31, 5)
+print(x)

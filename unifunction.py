@@ -14,4 +14,4 @@ angles_radians = angles_degrees * np.pi / 180
 print(angles_radians)
 
 print("Sine values: ")
-print(np.sin(angles_radians)
+print(np.sin(angles_radians))

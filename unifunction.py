@@ -32,3 +32,6 @@ print(x)
 
 expo = np.exp(x)
 print(expo)
+
+sqrt = np.sqrt(x)
+print(sqrt)

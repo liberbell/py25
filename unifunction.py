@@ -29,3 +29,6 @@ print(arcsine_values * 180 / np.pi)
 
 x = np.arange(4, 31, 5)
 print(x)
+
+expo = np.exp(x)
+print(expo)

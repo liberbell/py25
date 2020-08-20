@@ -35,3 +35,4 @@ print(expo)
 
 sqrt = np.sqrt(x)
 print(sqrt)
+print(np.median(x))

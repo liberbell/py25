@@ -15,3 +15,6 @@ print(angles_radians)
 
 print("Sine values: ")
 print(np.sin(angles_radians))
+
+print("Cosine values: ")
+print(np.cos(angles_radians))

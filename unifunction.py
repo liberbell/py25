@@ -21,3 +21,7 @@ print(np.cos(angles_radians))
 
 print("Tangent values: ")
 print(np.tan(angles_radians))
+
+sine_values = np.sin(angles_radians)
+arcsine_values = np.arcsin(sine_values)
+print(arcsine_values)

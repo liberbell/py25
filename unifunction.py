@@ -39,3 +39,4 @@ print(np.median(x))
 
 float_values = np.genfromtxt("float_values.csv", delimiter=",")
 print(float_values)
+print(float_values.shape)

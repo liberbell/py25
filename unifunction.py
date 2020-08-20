@@ -40,3 +40,8 @@ print(np.median(x))
 float_values = np.genfromtxt("float_values.csv", delimiter=",")
 print(float_values)
 print(float_values.shape)
+
+print("Mean: %i" %np.mean(float_values))
+print("Median %i" %np.median(float_values))
+print("Variance %i" %np.var(float_values))
+print("Standard Deviation %i " $np.std(float_values))

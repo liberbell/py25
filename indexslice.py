@@ -17,4 +17,4 @@ companies = ([["Capcon", "Microsoft", "IBM", "Spotify", "Filipkart"],
 
 print(companies)
 print(companies[0])
-print(companies[:, 2])
+print(companies[0, 2])

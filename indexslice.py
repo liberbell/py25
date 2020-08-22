@@ -5,3 +5,4 @@ print(x)
 
 print(x[3])
 print(x[-4])
+print(x[1:8])

@@ -16,3 +16,4 @@ companies = ([["Capcon", "Microsoft", "IBM", "Spotify", "Filipkart"],
              [489000, 1310000, 380000, 3000, 30000]])
 
 print(companies)
+print(companies[0])

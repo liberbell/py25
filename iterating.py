@@ -35,5 +35,5 @@ for i in np.nditer(num, order="F", flags=["external_loop"]):
 # for array in np.nditer(num):
 #     array[...] = array * array
 
-for array in np.nditer(num, op_flags="readwrite"):
+for array in np.nditer(num, op_flags=["readwrite"]):
     array[...] = array * array

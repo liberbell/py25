@@ -22,3 +22,6 @@ for data in companies.flatten(order = "F"):
 
 num = np.arange(16).reshape(4, 4)
 print(num)
+
+for i in np.nditer(num):
+    print(i)

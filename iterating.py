@@ -25,3 +25,6 @@ print(num)
 
 for i in np.nditer(num):
     print(i)
+
+for i in np.nditer(num, order= "F"):
+    print(i)

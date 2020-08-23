@@ -18,5 +18,5 @@ companies = np.array([["Capcon", "Microsoft", "IBM", "Spotify", "Filipkart"],
 print(companies)
 companies[0:2, 2:4]
 print(companies[0])
-# print(companies[0, 2])
+print(companies[0, 2])
 

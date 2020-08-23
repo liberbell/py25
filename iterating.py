@@ -28,3 +28,6 @@ for i in np.nditer(num):
 
 for i in np.nditer(num, order= "F"):
     print(i)
+
+for i in np.nditer(num, order="F", flags=["external_loop"]):
+    print(i)

@@ -16,3 +16,6 @@ for row in companies:
     i += 1
 
 print(companies.flatten())
+
+for data in companies.flatten(order = "F"):
+    print(data)

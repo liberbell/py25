@@ -16,6 +16,6 @@ companies = ([["Capcon", "Microsoft", "IBM", "Spotify", "Filipkart"],
              [489000, 1310000, 380000, 3000, 30000]])
 
 print(companies)
-companies[0:2, 2:4]
+# companies[0:2, 2:4]
 # print(companies[0])
 # print(companies[0, 2])

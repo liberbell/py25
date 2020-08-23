@@ -19,3 +19,6 @@ print(companies.flatten())
 
 for data in companies.flatten(order = "F"):
     print(data)
+
+num = np.arange(16).reshape(4, 4)
+print(num)

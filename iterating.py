@@ -32,5 +32,8 @@ for i in np.nditer(num, order= "F"):
 for i in np.nditer(num, order="F", flags=["external_loop"]):
     print(i)
 
+# for array in np.nditer(num):
+#     array[...] = array * array
+
 for array in np.nditer(num):
     array[...] = array * array

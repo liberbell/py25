@@ -6,3 +6,4 @@ tech_companies = np.array([("IBM", "Apple.inc", "Intel", "Dell", "Microsoft"),
 print(tech_companies)
 print(tech_companies.shape)
 print(tech_companies.ravel())
+print(tech_companies.T)

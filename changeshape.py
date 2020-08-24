@@ -10,3 +10,5 @@ print(tech_companies.T)
 print(tech_companies.T.ravel())
 
 print(tech_companies.shape)
+
+print(tech_companies.reshape(2, 5))

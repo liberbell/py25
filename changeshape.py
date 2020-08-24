@@ -13,3 +13,6 @@ print(tech_companies.shape)
 
 print(tech_companies.reshape(2, 5))
 print(np.arange(18).reshape(3, 6))
+
+companies = np.array(["IBM", "Apple", "Intel", "Sony", "Microsoft", "HP", "Hitachi", "Panasonic"])
+print(companies)

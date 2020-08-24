@@ -12,4 +12,4 @@ print(tech_companies.T.ravel())
 print(tech_companies.shape)
 
 print(tech_companies.reshape(2, 5))
-print(np.arange(18).reshape(3, 5))
+print(np.arange(18).reshape(3, 6))

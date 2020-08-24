@@ -18,3 +18,4 @@ companies = np.array(["IBM", "Apple", "Intel", "Sony", "Microsoft", "HP", "Hitac
 print(companies)
 
 print(companies.reshape(-1, 4))
+print(companies.reshape(4, -1))

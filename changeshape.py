@@ -8,3 +8,5 @@ print(tech_companies.shape)
 print(tech_companies.ravel())
 print(tech_companies.T)
 print(tech_companies.T.ravel())
+
+print(tech_companies.shape)
